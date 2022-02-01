@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ayushyanirwan
+- 👀 I’m interested in PHP Development
+- 🌱 I’m currently learning PHP and Python
